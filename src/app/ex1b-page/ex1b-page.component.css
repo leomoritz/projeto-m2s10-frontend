@@ -1,0 +1,17 @@
+.container-events{
+  background-color: rgb(93, 93, 255);
+  height: 100vh;
+}
+
+.container-events h1, h3{
+  color: white;
+}
+
+.container-events hr{
+  border: 1px solid black;
+}
+
+.container-events h1, h3, p{
+  height: vh;
+  padding: 10px;
+}
